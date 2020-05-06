@@ -1,0 +1,2 @@
+rootProject.name='Toolbaaar'
+include ':app'
